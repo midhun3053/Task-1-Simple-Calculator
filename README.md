@@ -19,6 +19,6 @@ A clean and simple calculator built using HTML, CSS, and JavaScript. This app pe
 http://127.0.0.1:3000/TASK%201/Simple%20Calculator.html
 
 ## 📸 Screenshots
-(Add screenshot here if needed)
+![Image](https://github.com/user-attachments/assets/759d67e1-7089-4b14-8ec3-8cdc487790c0)
 
 
